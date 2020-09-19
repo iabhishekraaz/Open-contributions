@@ -1,7 +1,7 @@
 ## Machine Learning
 
 - Data preprocessing
-- Linear Regration
+- linear regression
 - Logistic Regression
 - SVM
 - Random Forest 
